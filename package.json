@@ -25,6 +25,6 @@
     "async": "~0.7.0"
   },
   "dependencies": {
-    "noble-device": "^1.1.0"
+    "noble-device": "^1.9.1"
   }
 }
