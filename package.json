@@ -25,6 +25,6 @@
     "async": "~0.7.0"
   },
   "dependencies": {
-    "tehnorm/noble-device": ""
+    "tehnorm/noble-device": "1.4.1"
   }
 }
